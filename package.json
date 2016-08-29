@@ -1,5 +1,5 @@
 {
-  "name": "angular-api",
+  "name": "ng-api",
   "version": "1.0.0",
   "description": "Angular API mapper",
   "main": "Gruntfile.js",
